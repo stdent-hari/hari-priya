@@ -1,2 +1,3 @@
 # hari-priya
-This is my Git repository
+This is my Git Repository.
+Author-Hari Priya
